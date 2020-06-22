@@ -1,0 +1,8 @@
+E:\RND Folder\PaymentBussinesRuleEngine\PaymentBussinesRuleEngine\bin\Debug\PaymentBussinesRuleEngine.exe.config
+E:\RND Folder\PaymentBussinesRuleEngine\PaymentBussinesRuleEngine\bin\Debug\PaymentBussinesRuleEngine.exe
+E:\RND Folder\PaymentBussinesRuleEngine\PaymentBussinesRuleEngine\bin\Debug\PaymentBussinesRuleEngine.pdb
+E:\RND Folder\PaymentBussinesRuleEngine\PaymentBussinesRuleEngine\obj\x86\Debug\PaymentBussinesRuleEngine.Form1.resources
+E:\RND Folder\PaymentBussinesRuleEngine\PaymentBussinesRuleEngine\obj\x86\Debug\PaymentBussinesRuleEngine.Properties.Resources.resources
+E:\RND Folder\PaymentBussinesRuleEngine\PaymentBussinesRuleEngine\obj\x86\Debug\PaymentBussinesRuleEngine.csproj.GenerateResource.Cache
+E:\RND Folder\PaymentBussinesRuleEngine\PaymentBussinesRuleEngine\obj\x86\Debug\PaymentBussinesRuleEngine.exe
+E:\RND Folder\PaymentBussinesRuleEngine\PaymentBussinesRuleEngine\obj\x86\Debug\PaymentBussinesRuleEngine.pdb
